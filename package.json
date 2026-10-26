@@ -1,0 +1,9 @@
+{
+  "name": "shangshuimen-webgis",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev": "vite --host 127.0.0.1", "build": "vite build", "preview": "vite preview --host 127.0.0.1"},
+  "dependencies": {"cesium": "^1.133.0"},
+  "devDependencies": {"vite": "^7.1.0", "vite-plugin-static-copy": "^3.1.0", "sirv": "^3.0.1"}
+}

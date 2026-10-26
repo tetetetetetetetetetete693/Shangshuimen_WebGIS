@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.ui-review/
+遥感图像处理/
+.env
+.env.*
+*.log
+*.tif
+*.tiff
+*.osgb
+*.zip
